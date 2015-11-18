@@ -1,0 +1,11 @@
+Endpoint=0B, ProfileId=C05E, DeviceId=0210
+Incluster1 = 0000
+Incluster2 = 0003
+Incluster3 = 0004
+Incluster4 = 0005
+Incluster5 = 0006
+Incluster6 = 0008
+Incluster7 = 0300
+Incluster8 = 1000
+Outcluster1 = 0019
+
