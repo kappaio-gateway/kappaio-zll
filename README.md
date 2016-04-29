@@ -10,5 +10,3 @@ This plugin/endpoint enables the kappaBox to factory-reset and take control of Z
 * **Turning On/Off**  
 * **Adjust Brightness** - You can also set the level-transition speed.
 * **Change color** - You can also et the color-transistion speed.
-
-**Note:This plugin is shipped with kappaBox, the code is provided for educational purpose.**
